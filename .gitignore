@@ -1,0 +1,4 @@
+*.swp
+*.diff
+config.h
+*.o
